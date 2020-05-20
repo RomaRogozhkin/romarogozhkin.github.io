@@ -1,0 +1,14 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "KZ5W8XAD88.com.fdlt.messenger.dev" ],
+             "components": [
+               {
+                  "/": "/*"
+               }
+             ]
+           }
+       ]
+   }
+}
