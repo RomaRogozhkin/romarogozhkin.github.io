@@ -4,7 +4,7 @@
         "details": [
             {
               "appID": "KZ5W8XAD88.com.fdlt.messenger.dev",
-              "paths": ["*"]
+              "paths": ["/*"]
             }
         ]
     }
