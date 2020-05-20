@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "5ABY5WHE49.com.uefa.euro2016",
+        "paths": [
+          "european-qualifiers/*",
+          "worldcup/*"
+        ]
+      },
+      {
+        "appID": "JPS45PPV79.com.netcosports.dev.euro2016.official",
+        "paths": [
+          "european-qualifiers/*",
+          "worldcup/*"
+        ]
+      }
+    ]
+  }
+}
