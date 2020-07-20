@@ -5,7 +5,16 @@
         "appID": "KZ5W8XAD88.com.fdlt.messenger.dev",
         "components": [
           {
-            "/": "*",
+            "/": "/restore-password-successful",
+            "?": { "hash": "?*" }
+          },
+          {
+ 	    "/": "/settings",
+            "?": {"change_email_hash": "?*"}
+          },
+	  {
+            "/": "/registration-successful",
+            "?": { "hash": "?*" }
           }
         ]
       }
